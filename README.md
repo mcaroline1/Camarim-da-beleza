@@ -1,2 +1,2 @@
-# Camarim-da-beleza
+# Camarim da beleza
 Projeto da disciplina Autoria Web
